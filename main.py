@@ -9,7 +9,7 @@ import sys, os
 
 def main():
     csv_path=sys.argv[1]
-    ORIGINAL = pd.read_csv('data/survey_results_public_mega_inc.csv')
+    ORIGINAL = pd.read_csv(csv_path)
     df = ORIGINAL.copy()
     VARS_REQUIRED = [
         'ConvertedSalary',
