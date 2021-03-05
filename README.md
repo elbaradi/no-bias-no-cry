@@ -3,7 +3,7 @@ Qing, Jesse, Pavel and Tijmen's project for Codam's 'Hack The Bias' 2021 hackath
 
 ## Project description
 
-For this project we where looking for biases in a dataset provided by Mega-Inc. Our
+For this project we were looking for biases in a dataset provided by Mega-Inc. Our
 analysis looks at hetero and non-hetersexual Males and Females and checks for trends
 regarding ConvertedSalary and JobSatisfaction.
 
